@@ -1,42 +1,37 @@
-# ☕ Day 01 - Java Basics
+## 🎯 Problem 1: Hello World
 
-## 📚 Topics Learned
+### 📌 Objective
 
-- Variables
-- Data Types
-- Scanner Class
-- Input & Output
+Print "Hello, World!" on the console.
 
----
+### 💻 File
 
-## 🎯 Problems Solved
+`HelloWorld.java`
 
-1. Hello World
-2. Add Two Numbers
+### ▶️ Output
 
----
+```text
+Hello, World!
+```
+## 🎯 Problem 2: Add Two Numbers
 
-## 💡 Key Learnings
+### 📌 Objective
 
-- Declaring variables
-- Taking user input using `Scanner`
-- Printing output using `System.out.println()`
-- Writing your first Java program
+Read two integers and print their sum.
 
----
+### 💻 File
 
-## 📂 Files
+`AddTwoNumbers.java`
 
-- HelloWorld.java
-- AddTwoNumbers.java
+### ▶️ Sample Input
 
----
+```text
+10
+20
+```
 
-## 🚀 Progress
+### ▶️ Output
 
-- ✅ Topics Learned: 4
-- ✅ Problems Solved: 2
-
----
-
-**Day 01 Completed Successfully 🎉**
+```text
+Sum = 30
+```
