@@ -20,7 +20,7 @@ This repository documents my journey of learning Java from fundamentals to advan
 |-----|--------|--------|
 | Day 01 | Variables & Data Types |  ✅ |
 | Day 02 | Operators |✅ |
-| Day 03 | If-Else | ⬜ |
+| Day 03 | If-Else | ✅ |
 | Day 04 | Switch | ⬜ |
 | Day 05 | Loops | ⬜ |
 | Day 06 | While & Do While | ⬜ |
