@@ -27,7 +27,7 @@ This repository documents my journey of learning Java from fundamentals to advan
 | Day 07 | Pattern Printing | ✅ |
 | Day 08 | Functions | ✅ |
 | Day 09 | Recursion | ✅ |
-| Day 10 | Arrays | ⬜ |
+| Day 10 | Arrays | ✅ |
 | ... | ... | ⬜ |
 | Day 30 | Final Java Challenge | ⬜ |
 
