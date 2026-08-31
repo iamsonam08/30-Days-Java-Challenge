@@ -675,16 +675,3 @@ Progress: 29 / 30 Days
 Problems Solved: 58 / 60
 ```
 
----
-
-# 🔥 Next: Day 30
-
-Day 30 will be the final day of this 30-day challenge.
-
-The final two problems will be **more interview-oriented** and will combine the concepts learned throughout the challenge.
-
-```text
-30 Days
-60 Problems
-Java + DSA Fundamentals
-```
